@@ -1,0 +1,25 @@
+.header {
+    background-color: #f8f8f8;
+    padding: 100px 0;
+    width: 1900px;
+    height: 100%;
+    text-align: center;
+    color: black;
+}
+
+.header nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.header nav a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none; /* Remove as bolinhas das listas não ordenadas */
+  }
+  li {
+    list-style-type: none; /* Remove as bolinhas das listas não ordenadas */
+  }
